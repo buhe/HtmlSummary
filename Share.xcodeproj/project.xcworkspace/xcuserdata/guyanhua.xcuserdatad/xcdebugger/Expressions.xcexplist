@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SwiftUIView.addItem(payload:):ShareViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShareViewController.viewDidAppear(_:):ShareViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "extensionContext!.inputItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
