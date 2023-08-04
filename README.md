@@ -1,7 +1,7 @@
 # Html Summary
 SwiftUI app based on [langchain-swift](https://github.com/buhe/langchain-swift).
 
-If you find it troublesome or want to support me, go to apps.apple.com/us/app/ai-pagily/id6452588389
+If you find it troublesome or want to support me, go to https://apps.apple.com/us/app/ai-pagily/id6452588389
 
 Edit it: https://github.com/buhe/HtmlSummary/blob/main/ShareExt/env.txt , set your openai_key.
 ## Core Code
